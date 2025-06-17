@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Kim YoungWan",
     image: "", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
-    bio: "memory",
+    bio: "",
     email: "kimywan10@gmail.com",
     linkedin: "",
     github: "kimywann",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "0wan-log",
+    title: "memory",
     description: "welcome!",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
